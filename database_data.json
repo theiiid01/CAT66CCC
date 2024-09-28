@@ -1,0 +1,42 @@
+{
+    "appid": "2878980",
+    "dlcs": "2974820,2982790,2975020,2974830,2982770,2975000,2982780",
+    "packagedlcs": "",
+    "depots": "2878981",
+    "money": "NT$ 2,090",
+    "d": 1,
+    "s": 1,
+    "game_name_zh": "NBA 2K25",
+    "game_name_en": "NBA 2K25",
+    "game_name_jp": "NBA 2K25",
+    "game_tags": [
+        "PvP",
+        "Online PvP",
+        "Remote Play Together",
+        "Sports",
+        "Steam Achievements",
+        "Single-player",
+        "In-App Purchases",
+        "Steam Cloud",
+        "Multi-player",
+        "Shared/Split Screen PvP",
+        "Shared/Split Screen",
+        "Family Sharing",
+        "Simulation",
+        "Co-op",
+        "Shared/Split Screen Co-op",
+        "Partial Controller Support",
+        "Online Co-op"
+    ],
+    "exe": "start_protected_game.exe",
+    "dlcid": [
+        "2974820 = NBA 2K25 Hall of Fame Pass: Season 1",
+        "2974830 = NBA 2K25 - Season 1 Pro Pass (NBA 2K25 Pro Pass: Season 1)",
+        "2975000 = NBA 2K25 5,000 Virtual Currency Pack",
+        "2975020 = NBA 2K25 All-Star Bonus",
+        "2982770 = NBA 2K25 Hall of Fame Bonus",
+        "2982780 = VC MyCAREER Bundle Season 1 (Season 1 MyCAREER Bonus Offer)",
+        "2982790 = VC MyTEAM Bundle Season 1 (Season 1 MyTEAM Bonus Offer)"
+    ],
+    "cc": []
+}
