@@ -1,0 +1,30 @@
+{
+    "appid": "2322010",
+    "dlcs": "2974320,2974340,2974330",
+    "packagedlcs": "",
+    "depots": "2322011",
+    "money": "NT$ 1,490",
+    "d": 0,
+    "s": 1,
+    "game_name_zh": "God of War Ragnarök",
+    "game_name_en": "God of War Ragnarök",
+    "game_name_jp": "ゴッド・オブ・ウォー ラグナロク",
+    "game_tags": [
+        "HDR available",
+        "Steam Achievements",
+        "Single-player",
+        "Full controller support",
+        "Family Sharing",
+        "Steam Cloud",
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "exe": "GoWR.exe",
+    "dlcid": [
+        "2974320 = God of War Ragnarök - Pre-purchase Entitlement",
+        "2974330 = God of War Ragnarök - Digital Deluxe Edition Upgrade",
+        "2974340 = God of War Ragnarök - Digital Artbook1"
+    ],
+    "cc": []
+}
