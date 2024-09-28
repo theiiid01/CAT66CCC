@@ -1,0 +1,37 @@
+{
+    "appid": "1979440",
+    "dlcs": "2602630,2602640,2680150,2602650,2602590,2602660,2624420,2602600,2602670,2624430,2602610,2602620",
+    "packagedlcs": "",
+    "depots": "1979441",
+    "money": "NT$ 1,181",
+    "d": 0,
+    "s": 1,
+    "game_name_zh": "SAND LAND",
+    "game_name_en": "SAND LAND",
+    "game_name_jp": "SAND LAND（サンドランド）",
+    "game_tags": [
+        "Family Sharing",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Action",
+        "Single-player",
+        "RPG"
+    ],
+    "exe": "SANDLAND.exe",
+    "dlcid": [
+        "2602590 = SAND LAND - Custom Vehicle Colors (3 Types)",
+        "2602600 = SAND LAND - Speed Demon Pack",
+        "2602610 = SAND LAND - My Room Furniture Set: Army Base",
+        "2602620 = SAND LAND - My Room Furniture Set: Hideout",
+        "2602630 = SAND LAND - Beelzebub Decal Set",
+        "2602640 = SAND LAND - Rao and Thief Decal set",
+        "2602650 = SAND LAND - Enemy Decal Set",
+        "2602660 = SAND LAND - Vron Decal",
+        "2602670 = SAND LAND - Geji Dragon Decal Set",
+        "2624420 = SAND LAND - Special Main Weapon",
+        "2624430 = SAND LAND - Decal and Special Main Weapon Pack",
+        "2680150 = SAND LAND - Deluxe Edition Upgrade Pack"
+    ],
+    "cc": []
+}
