@@ -1,0 +1,24 @@
+{
+    "appid": "2331330",
+    "dlcs": "2915350",
+    "packagedlcs": "",
+    "depots": "2331331,2915350",
+    "money": "NT$ 499",
+    "d": 0,
+    "s": 0,
+    "game_name_zh": "女鬼橋二  釋魂路",
+    "game_name_en": "The Bridge Curse 2: The Extrication",
+    "game_name_jp": "女鬼橋2 釈魂路",
+    "game_tags": [
+        "Full controller support",
+        "Single-player",
+        "Steam Cloud",
+        "Steam Achievements",
+        "Adventure"
+    ],
+    "exe": "TBC2-Win64-Shipping.exe",
+    "dlcid": [
+        "2915350 = The Bridge Curse Road 2: The Extrication The art of game Book"
+    ],
+    "cc": []
+}
