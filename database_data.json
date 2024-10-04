@@ -1,0 +1,26 @@
+{
+    "appid": "1622910",
+    "dlcs": "",
+    "packagedlcs": "",
+    "depots": "1622911",
+    "money": "NT$ 566",
+    "d": 0,
+    "s": 1,
+    "game_name_zh": "Still Wakes the Deep",
+    "game_name_en": "Still Wakes the Deep",
+    "game_name_jp": "Still Wakes the Deep",
+    "game_tags": [
+        "Full controller support",
+        "Family Sharing",
+        "Steam Achievements",
+        "Action",
+        "Single-player",
+        "HDR available",
+        "Captions available"
+    ],
+    "exe": "StillWakesTheDeep.exe",
+    "dlcid": [
+        ""
+    ],
+    "cc": []
+}
