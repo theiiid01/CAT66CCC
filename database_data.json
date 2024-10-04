@@ -1,0 +1,30 @@
+{
+    "appid": "1999520",
+    "dlcs": "",
+    "packagedlcs": "",
+    "depots": "1999521,1999522,1999523",
+    "money": "NT$ 198",
+    "d": 0,
+    "s": 0,
+    "game_name_zh": "CATO: Buttered Cat",
+    "game_name_en": "CATO: Buttered Cat",
+    "game_name_jp": "CATO: Buttered Cat",
+    "game_tags": [
+        "Full controller support",
+        "Family Sharing",
+        "Steam Achievements",
+        "Adventure",
+        "Steam Cloud",
+        "Casual",
+        "Remote Play on Tablet",
+        "Indie",
+        "Single-player",
+        "Remote Play on TV",
+        "Remote Play on Phone"
+    ],
+    "exe": "CATO.exe",
+    "dlcid": [
+        ""
+    ],
+    "cc": []
+}
