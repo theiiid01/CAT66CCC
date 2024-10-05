@@ -1,0 +1,27 @@
+{
+    "appid": "2620730",
+    "dlcs": "",
+    "packagedlcs": "",
+    "depots": "2620731",
+    "money": "NT$ 180",
+    "d": 0,
+    "s": 0,
+    "game_name_zh": "偏差者",
+    "game_name_en": "DEVIATOR",
+    "game_name_jp": "デビエーター 偏差者",
+    "game_tags": [
+        "Full controller support",
+        "Family Sharing",
+        "Early Access",
+        "Steam Cloud",
+        "Action",
+        "Indie",
+        "Single-player",
+        "Adventure"
+    ],
+    "exe": "Deviator.exe",
+    "dlcid": [
+        ""
+    ],
+    "cc": []
+}
