@@ -1,0 +1,25 @@
+{
+    "appid": "2172010",
+    "dlcs": "",
+    "packagedlcs": "",
+    "depots": "2172011",
+    "money": "NT$ 1,790",
+    "d": 0,
+    "s": 1,
+    "game_name_zh": "Until Dawn™",
+    "game_name_en": "Until Dawn™",
+    "game_name_jp": "Until Dawn -惨劇の山荘-",
+    "game_tags": [
+        "Full controller support",
+        "Family Sharing",
+        "Steam Achievements",
+        "Steam Cloud",
+        "Single-player",
+        "Adventure"
+    ],
+    "exe": "Bates.exe",
+    "dlcid": [
+        ""
+    ],
+    "cc": []
+}
