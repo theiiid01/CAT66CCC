@@ -1,0 +1,25 @@
+{
+    "appid": "2093920",
+    "dlcs": "",
+    "packagedlcs": "",
+    "depots": "2093921",
+    "money": "NT$ 295",
+    "d": 0,
+    "s": 0,
+    "game_name_zh": "災變前夜",
+    "game_name_en": "Dread Dawn",
+    "game_name_jp": "灾变前夜  Dread Dawn",
+    "game_tags": [
+        "Action",
+        "RPG",
+        "Family Sharing",
+        "Adventure",
+        "Indie",
+        "Single-player"
+    ],
+    "exe": "Dread dawn.exe",
+    "dlcid": [
+        ""
+    ],
+    "cc": []
+}
