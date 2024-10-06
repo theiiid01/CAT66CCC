@@ -1,0 +1,26 @@
+{
+    "appid": "2957670",
+    "dlcs": "",
+    "packagedlcs": "",
+    "depots": "2957671",
+    "money": "NT$ 499",
+    "d": 0,
+    "s": 0,
+    "game_name_zh": "紅衣小女孩 愿",
+    "game_name_en": "THE TAG-ALONG OBSESSION",
+    "game_name_jp": "紅衣小女孩 愿",
+    "game_tags": [
+        "Single-player",
+        "Family Sharing",
+        "Full controller support",
+        "Steam Achievements",
+        "Steam Cloud",
+        "RPG",
+        "Adventure"
+    ],
+    "exe": "Obsession.exe",
+    "dlcid": [
+        ""
+    ],
+    "cc": []
+}
