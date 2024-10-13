@@ -1,0 +1,27 @@
+{
+    "appid": "2124490",
+    "dlcs": "3097500,3097490,2951540",
+    "packagedlcs": "",
+    "depots": "2124491,2951541",
+    "money": "NT$ 1,987",
+    "d": 0,
+    "s": 1,
+    "game_name_zh": "SILENT HILL 2",
+    "game_name_en": "SILENT HILL 2",
+    "game_name_jp": "SILENT HILL 2",
+    "game_tags": [
+        "Full controller support",
+        "Adventure",
+        "Steam Achievements",
+        "Single-player",
+        "Action",
+        "Family Sharing"
+    ],
+    "exe": "",
+    "dlcid": [
+        "2951540 = SILENT HILL 2 - Artbook",
+        "3097490 = SILENT HILL 2 - Mira Mask",
+        "3097500 = SILENT HILL 2 - Pyramid Head Mask"
+    ],
+    "cc": []
+}
