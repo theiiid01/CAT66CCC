@@ -1,0 +1,30 @@
+{
+    "appid": "2223840",
+    "dlcs": "2787650,2870270",
+    "packagedlcs": "",
+    "depots": "2223841",
+    "money": "NT$ 610",
+    "d": 0,
+    "s": 1,
+    "game_name_zh": "The Casting of Frank Stone™",
+    "game_name_en": "The Casting of Frank Stone™",
+    "game_name_jp": "The Casting of Frank Stone™",
+    "game_tags": [
+        "Full controller support",
+        "Adventure",
+        "Co-op",
+        "Single-player",
+        "Steam Achievements",
+        "Shared/Split Screen",
+        "Steam Cloud",
+        "Family Sharing",
+        "Shared/Split Screen Co-op",
+        "Multi-player"
+    ],
+    "exe": "CastingFrankStone.exe",
+    "dlcid": [
+        "2787650 = The Casting of Frank Stone - Deluxe Content",
+        "2870270 = The Casting of Frank Stone - Pre-Order Content1"
+    ],
+    "cc": []
+}
