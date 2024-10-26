@@ -1,0 +1,31 @@
+{
+    "appid": "2288150",
+    "dlcs": "2612450,2656290,2634500,2612440,2644460",
+    "packagedlcs": "",
+    "depots": "2288151,2612440,2612450,2634500,2644460,2656290,2288153",
+    "money": "NT$ 1,790",
+    "d": 0,
+    "s": 1,
+    "game_name_zh": "三國志8  REMAKE",
+    "game_name_en": "ROMANCE OF THE THREE KINGDOMS 8 REMAKE",
+    "game_name_jp": "三國志8  REMAKE",
+    "game_tags": [
+        "Strategy",
+        "Family Sharing",
+        "Simulation",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Achievements",
+        "Single-player",
+        "Steam Trading Cards"
+    ],
+    "exe": "GB4.exe",
+    "dlcid": [
+        "2612440 = ROMANCE OF THE THREE KINGDOMS 8 REMAKE Scenario \"Valor Triumphs\"",
+        "2612450 = ROMANCE OF THE THREE KINGDOMS 8 REMAKE Scenario \"The Coalition Against Cao Cao\"",
+        "2634500 = ROMANCE OF THE THREE KINGDOMS 8 REMAKE Bonus Scenario \"Liu Bei's Three Tacticians\"",
+        "2644460 = ROMANCE OF THE THREE KINGDOMS 8 REMAKE Special Digital Artbook & Soundtrack",
+        "2656290 = ROMANCE OF THE THREE KINGDOMS 8 REMAKE \"ROMANCE OF THE THREE KINGDOMS 14\" Officer CG Portrait Set"
+    ],
+    "cc": []
+}
