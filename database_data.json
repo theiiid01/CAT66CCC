@@ -1,0 +1,27 @@
+{
+    "appid": "1456760",
+    "dlcs": "",
+    "packagedlcs": "",
+    "depots": "1456761",
+    "money": "NT$ 318",
+    "d": 0,
+    "s": 0,
+    "game_name_zh": "ROBOBEAT",
+    "game_name_en": "ROBOBEAT",
+    "game_name_jp": "ROBOBEAT",
+    "game_tags": [
+        "Family Sharing",
+        "Indie",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Achievements",
+        "Adventure",
+        "Single-player",
+        "Action"
+    ],
+    "exe": "ROBOBEAT.exe",
+    "dlcid": [
+        ""
+    ],
+    "cc": []
+}
