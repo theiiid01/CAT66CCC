@@ -1,0 +1,38 @@
+{
+    "appid": "1672500",
+    "dlcs": "2884320,2884450,2884380,2884390,2884330,2884460,2884430,3085970,2884440,3085980",
+    "packagedlcs": "",
+    "depots": "1672501",
+    "money": "NT$ 1,790",
+    "d": 0,
+    "s": 1,
+    "game_name_zh": "GUNDAM 創壞者4",
+    "game_name_en": "GUNDAM BREAKER 4",
+    "game_name_jp": "ガンダムブレイカー4",
+    "game_tags": [
+        "Co-op",
+        "Family Sharing",
+        "Multi-player",
+        "Steam Cloud",
+        "Steam Achievements",
+        "RPG",
+        "Full controller support",
+        "Online Co-op",
+        "Single-player",
+        "Action"
+    ],
+    "exe": "GB4.exe",
+    "dlcid": [
+        "2884320 = GUNDAM BREAKER 4 - Pre-Order Bonus",
+        "2884330 = GUNDAM BREAKER 4 - Story Mission DLC 1 - GO! RESTART!!",
+        "2884380 = GUNDAM BREAKER 4 - Season Pass Bonus",
+        "2884390 = GUNDAM BREAKER 4 - Diorama Pack 1 - Colony Set",
+        "2884430 = GUNDAM BREAKER 4 - Diorama Set Bonus",
+        "2884440 = GUNDAM BREAKER 4 - Deluxe Edition Bonus",
+        "2884450 = GUNDAM BREAKER 4 - Season Pass",
+        "2884460 = GUNDAM BREAKER 4 - Diorama Pack Set",
+        "3085970 = GUNDAM BREAKER 4 - Breaker Booster x 100",
+        "3085980 = GUNDAM BREAKER 4 - Breaker Booster x 500"
+    ],
+    "cc": []
+}
