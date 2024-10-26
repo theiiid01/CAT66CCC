@@ -1,0 +1,26 @@
+{
+    "appid": "1005460",
+    "dlcs": "",
+    "packagedlcs": "",
+    "depots": "1005461",
+    "money": "NT$ 187",
+    "d": 0,
+    "s": 0,
+    "game_name_zh": "國戰2:列國志傳",
+    "game_name_en": "NationWar2:Chronicle",
+    "game_name_jp": "NationWar2",
+    "game_tags": [
+        "Strategy",
+        "Family Sharing",
+        "Simulation",
+        "Indie",
+        "Casual",
+        "Steam Cloud",
+        "Single-player"
+    ],
+    "exe": "NationWar.exe",
+    "dlcid": [
+        ""
+    ],
+    "cc": []
+}
