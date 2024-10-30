@@ -1,0 +1,34 @@
+{
+    "appid": "2515020",
+    "dlcs": "2744050,2744060,2886900,3142080,3142090,3142100",
+    "packagedlcs": "",
+    "depots": "2744060,2744061,2515021,2515023,2515022,2744051",
+    "money": "NT$ 1,490",
+    "d": 1,
+    "s": 1,
+    "game_name_zh": "FINAL FANTASY XVI",
+    "game_name_en": "FINAL FANTASY XVI",
+    "game_name_jp": "FINAL FANTASY XVI",
+    "game_tags": [
+        "RPG",
+        "Steam Achievements",
+        "Action",
+        "Full controller support",
+        "Captions available",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Single-player",
+        "HDR available",
+        "Family Sharing"
+    ],
+    "exe": "",
+    "dlcid": [
+        "2744050 = FINAL FANTASY XVI Echoes of the Fallen",
+        "2744060 = FINAL FANTASY XVI The Rising Tide",
+        "2886900 = FINAL FANTASY XVI Expansion Pass",
+        "3142080 = FINAL FANTASY XVI - Brave Blade",
+        "3142090 = FINAL FANTASY XVI - Cait Sith Charm",
+        "3142100 = FINAL FANTASY XVI - Sixteen Bells Orchestrion Roll"
+    ],
+    "cc": []
+}
