@@ -1,5 +1,5 @@
 CC=CC-26-0102-4
-AA=0.2.0
+AA=0.2.1
 h=0.5
 公告=https://cat66cc.notion.site/265ca9398004806eb24ef9509179fe3e
 教學=https://drive.google.com/file/d/1NIFYCXMyA-g85KE5JCo2nusXgBIaInL_/view
