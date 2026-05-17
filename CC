@@ -1,4 +1,4 @@
-CC=CC-26-0508-1
+CC=CC-26-0517-1
 AA=0.2.7
 h=0.6
 公告=https://cat66cc.notion.site/265ca9398004806eb24ef9509179fe3e
