@@ -1,8 +1,0 @@
--- SQL update generated at 2026-05-17 18-22
--- Records: 1
-PRAGMA journal_mode=WAL;
-PRAGMA synchronous=OFF;
-BEGIN TRANSACTION;
-INSERT OR REPLACE INTO games ("appid", "chinese_name", "english_name", "japanese_name", "tags", "exe_name", "exe2", "dlc", "depots", "drm", "price_category", "price", "cover_url", "steam_url", "manifest_files", "g", "release_date", "last_updated", "no_compare_files", "packagedlcs", "appidkey", "set_app_ticket", "dlc_names", "dlc名稱") VALUES ('2483190', 'Forza Horizon 6', 'Forza Horizon 6', 'Forza Horizon 6', '競速, 開放世界, 駕駛, 多人, 汽機車模擬, 模擬, 探索, 運動, 擬真, 街機, 氛圍, 虛擬實境, 單人, 第一人稱視角, 線上合作, 合作, 玩家對戰, 沙盒, 搞笑, 角色扮演', 'forzahorizon6.exe', 'N/A', '4439240, 4439250, 4439260, 4439270, 4439280, 4439290, 4439300, 4439750, 4439790, 4440380, 4444140, 4444150, 4520350, 4562050', 'N/A', 3, 3, 'NT$1,990', 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/27abb1584a118d50d0e3950fd48d557c51981db7/header.jpg?t=1778870245', 'https://store.steampowered.com/app/2483190', '2026-05-16 15-49', 1, '2026-05-18', '2026-05-17 18-19', '', '', '2483190=bca2f0f9973d929c2c6bae884058b8bf7934e9ecc8ff34d584450dfbb3215040', '', NULL, '4439240 Forza Horizon 6 Expansion 1, 4439250 Forza Horizon 6 Expansion 2, 4439260 Forza Horizon 6 Welcome Pack, 4439270 Forza Horizon 6 Premium VIP, 4439280 Forza Horizon 6 Time Attack Car Pack, 4439290 Forza Horizon 6 Italian Passion Car Pack, 4439300 Forza Horizon 6 Ferrari J50, 4439750 Forza Horizon 6 Treasure Map, 4439790 Forza Horizon 6 Car Pass, 4440380 Forza Horizon 6 VIP Membership, 4444140 Forza Horizon 6 TBDS2, 4444150 Forza Horizon 6 1962 Peel P50 Trolli Edition, 4520350 Forza Horizon 6 Expansions Bundle, 4562050 Forza Horizon 6 Crunchyroll Voucher');
-COMMIT;
-PRAGMA synchronous=NORMAL;
