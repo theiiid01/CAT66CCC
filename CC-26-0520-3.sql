@@ -1,0 +1,15 @@
+-- SQL update generated at 2026-05-20 23-08
+-- Records: 2
+PRAGMA journal_mode=WAL;
+PRAGMA synchronous=OFF;
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO games ("appid", "chinese_name", "english_name", "japanese_name", "tags", "exe_name", "exe2", "dlc", "depots", "drm", "price_category", "price", "cover_url", "steam_url", "manifest_files", "g", "release_date", "last_updated", "no_compare_files", "packagedlcs", "appidkey", "set_app_ticket", "dlc_names", "dlc名稱") VALUES ('1031500', '超級機器人大戰V', '超級機器人大戰V', '超級機器人大戰V', '戰術角色扮演, 機器人, 日本動畫, 回合制戰術, 日系角色扮演, 回合制策略, 劇情豐富, 視覺小說, 機甲, 角色扮演, 策略角色扮演, 回合制, 故事架構豐富, 等角視角, 科幻, 策略, 單人, 回合制戰鬥, 2D, 好評原聲帶', 'SRWV.EXE', 'N/A', '1126720, 1128560', '1031501', 0, 2, 'NT$1,190', 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031500/header.jpg?t=1755600635', 'https://store.steampowered.com/app/1031500', '2026-05-20 23-07', 0, '2019-10-02', '2026-05-20 23-07', '', '1126720 SUPER ROBOT WARS V - Early Purchase Bonus', '1031500=43f22aa9f64c8f7c9344e8cff9fbc0d88e7711c90b68750ed3807f4a0bc94819', '', NULL, '1126720 SUPER ROBOT WARS V - Early Purchase Bonus, 1128560 SUPER ROBOT WARS V - Replay Support Pack');
+INSERT OR REPLACE INTO games ("appid", "chinese_name", "english_name", "japanese_name", "tags", "exe_name", "exe2", "dlc", "depots", "drm", "price_category", "price", "cover_url", "steam_url", "manifest_files", "g", "release_date", "last_updated", "no_compare_files", "packagedlcs", "appidkey", "set_app_ticket", "dlc_names", "dlc名稱") VALUES ('3920610', '零 ～紅蝶～ REMAKE', '零 ～紅蝶～ REMAKE', '零 ～紅蝶～ REMAKE', '動作, 冒險, 女主人翁, 恐怖, 生存恐怖, 靈異, 動作冒險, 角色扮演, 第三人稱視角, 3D, 故事架構豐富, 單人, 劇情豐富, 驚悚, 暴力, 血腥, 3D 平台, 心理恐怖, 信仰, 類魂', 'FatalFrameII.exe', 'FatalFrameIIDigitalArtBook.exe', '4122450, 4123350, 4123360, 4123370, 4123380, 4423570', '3920611', 3, 3, 'NT$1,590', 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3920610/f0ca97688410ecb4effbde0b77431443a5172cf8/header.jpg?t=1774575080', 'https://store.steampowered.com/app/3920610', '2026-05-20 23-07', 0, '2026-03-11', '2026-05-20 23-07', '', '4122450 FATAL FRAME II: Crimson Butterfly REMAKE Pre-Order Bonus Set
+4123360 FATAL FRAME II: Crimson Butterfly REMAKE Digital Deluxe Bonus Set
+4122450
+4123350
+4123360
+4123370
+4123380', '3920610=8c9b8ce81e2921eea49b102eed1821aa883ad85645ff92115830bb24cbfa0bfc', '', NULL, '4122450 FATAL FRAME II: Crimson Butterfly REMAKE Pre-Order Bonus Set, 4123350 FATAL FRAME II: Crimson Butterfly REMAKE Early Purchase Bonus Set, 4123360 FATAL FRAME II: Crimson Butterfly REMAKE Digital Deluxe Bonus Set, 4123370 FATAL FRAME II: Crimson Butterfly REMAKE Digital Deluxe Upgrade, 4423570 FATAL FRAME II: Crimson Butterfly REMAKE x SILENT HILL f Costume Set, 4123380 FATAL FRAME II: Crimson Butterfly REMAKE Digital Art Book & Digital Soundtrack');
+COMMIT;
+PRAGMA synchronous=NORMAL;
