@@ -1,7 +1,7 @@
 CC=CC-26-0521-1
 AA=0.3.2
 h=0.6
-h2=0.1
+h2=0.2
 公告=https://cat66cc.notion.site/265ca9398004806eb24ef9509179fe3e
 教學=https://steam.cat66.cc/
 補丁=https://github.com/praydog/REFramework-nightly/releases
