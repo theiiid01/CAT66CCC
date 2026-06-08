@@ -1,5 +1,5 @@
 CC=CC-26-0523-2
-AA=0.3.2
+AA=0.3.7
 h=0.6
 h2=0.3
 公告=https://cat66cc.notion.site/265ca9398004806eb24ef9509179fe3e
