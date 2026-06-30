@@ -5,4 +5,4 @@ h2=0.4
 公告=https://cat66cc.notion.site/265ca9398004806eb24ef9509179fe3e
 教學=https://steam.cat66.cc/
 補丁=https://github.com/praydog/REFramework-nightly/releases
-REF=3764200,3357650,2852190,2054970
+REF=3764200,3357650,2852190,2054970,2246340
