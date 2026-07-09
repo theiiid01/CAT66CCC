@@ -1,8 +1,0 @@
--- SQL update generated at 2026-07-03 20-38
--- Records: 1
-PRAGMA journal_mode=WAL;
-PRAGMA synchronous=OFF;
-BEGIN TRANSACTION;
-INSERT OR REPLACE INTO games ("appid", "chinese_name", "english_name", "japanese_name", "tags", "exe_name", "exe2", "dlc", "depots", "drm", "price_category", "price", "cover_url", "steam_url", "manifest_files", "g", "release_date", "last_updated", "no_compare_files", "packagedlcs", "appidkey", "set_app_ticket", "dlc_names", "dlc名稱") VALUES ('2622380', '艾爾登法環 黑夜君臨', '艾爾登法環 黑夜君臨', '艾爾登法環 黑夜君臨', '類魂, 線上合作, 多人, 類 Rogue, 合作, 單人, 玩家合作, 動作, 第三人稱視角, 輕度 Rogue, 動作角色扮演, 開放世界, 角色扮演, 黑暗, 暴力, 3D, 生存, 故事架構豐富, 戀愛模擬, 劇情豐富', 'ELDEN RING NIGHTREIGN DIGITAL ARTBOOK & MINI SOUNDTRACK.exe', 'start_protected_game.exe', '3319490, 3515600, 3515610, 3531720, 3637850', '2622381, 2622383, 2622384', 3, 2, 'NT$ 1,190', 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036', 'https://store.steampowered.com/app/2622380', '2026-07-03 20-37', 0, '2025-05-29', '2026-07-03 20-37', '', '', '2622380=997d257d3a44c80b026acf14bc2c17b5280bec0051510350a580b1f76a7dc403', '', NULL, '3319490 ELDEN RING NIGHTREIGN Bonus Gesture, 3515600 ELDEN RING NIGHTREIGN Digital Artbook & Mini Soundtrack, 3515610 ELDEN RING NIGHTREIGN - Deluxe Upgrade Pack, 3531720 ELDEN RING NIGHTREIGN The Forsaken Hollows, 3637850 ELDEN RING NIGHTREIGN CE Content (Retail)');
-COMMIT;
-PRAGMA synchronous=NORMAL;
