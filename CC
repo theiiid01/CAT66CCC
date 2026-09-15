@@ -1,5 +1,5 @@
 CC=CC-26-0904-1
-AA=0.3.9
+AA=0.4.2
 h=0.6
 h2=0.5
 公告=https://cat66cc.notion.site/265ca9398004806eb24ef9509179fe3e
