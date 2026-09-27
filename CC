@@ -1,5 +1,5 @@
 CC=CC-26-0917-1
-AA=0.4.3
+AA=0.4.2
 h=0.6
 h2=0.5
 公告=https://steam.cat66.cc/#announcements
